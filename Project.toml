@@ -1,0 +1,9 @@
+name = "API"
+uuid = "63bad952-dfb6-46ac-bef7-8b3582422847"
+authors = ["alanz "]
+version = "0.1.0"
+
+[deps]
+DBInterface = "a10d1c49-ce27-4219-8d33-6db1a4562965"
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+MySQL = "39abe10b-433b-5dbd-92d4-e302a9df00cd"
